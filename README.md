@@ -1,6 +1,5 @@
 <h1 style="text-align: "center"; style="font-weight: bold;">Cloud Management App H21 </h1>
 
-DEMO: https://hovsep93.github.io/Cloud-Management-h21/
 
 <h1>introduction</h1>
 
