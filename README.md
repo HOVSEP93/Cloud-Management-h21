@@ -4,6 +4,7 @@
 <h1>introduction</h1>
 
 ![image!](./public/screen/1.jpg)
+<p>Mobile Device</p>
 ![image!](./public/screen/2.jpg)
 
 <br> <h2>technology i use here:</h2>
